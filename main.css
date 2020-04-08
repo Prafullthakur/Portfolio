@@ -135,12 +135,11 @@ z-index:-1;
 	}
 	.second-vid{
 	position: absolute;
-	top: 450px;
+	top: 250px;
 	left: 0px;
      }
      #video-second
-{
-	height:100%;
-	width:100px;
+     {	height:100%;
+	    width:100px;
      }
 }
