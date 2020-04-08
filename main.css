@@ -137,10 +137,11 @@ z-index:-1;
 	position: absolute;
 	top: 250px;
 	left: 0px;
+	text-align: center;
      }
      #video-second
      {	height:100%;
-	    width:100px;
+	    width:300px;
      }
      .circle
      {
