@@ -136,7 +136,11 @@ z-index:-1;
 	.second-vid{
 	position: absolute;
 	top: 450px;
-	left: 200px;
+	left: 100px;
      }
-
+     #video-second
+{
+	height:100%;
+	width:200px;
+     }
 }
