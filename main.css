@@ -133,4 +133,10 @@ z-index:-1;
 		display: inline-block;
 		width: 100%;
 	}
+	.second-vid{
+	position: absolute;
+	top: 450px;
+	left: 200px;
+     }
+
 }
