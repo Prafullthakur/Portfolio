@@ -157,7 +157,7 @@ z-index:-1;
 	}
 	.second-vid{
 	position: absolute;
-	top: 390px;
+	top: 380px;
 	left: 0px;
 	text-align: center;
      }
@@ -169,11 +169,11 @@ z-index:-1;
      .circle
      {
      	margin-top: 0px;
-     	margin-left: 0px;
+     	margin-left: 138px;
      }
      .line
      {
-     	margin-left: 0px;
+     	margin-left: 189px;
      	margin-top: 0px;
      }
 }
