@@ -125,9 +125,9 @@ z-index:-1;
 }
 @keyframes change{
 	0%{background-color:#fff2e6 }
-	6%{background-color: #ffe6cc }
-	12%{background-color:#ffd9b3 }
-	20%{background-color:#ffcc99 }
+	13%{background-color: #ffe6cc }
+	18%{background-color:#ffd9b3 }
+	
 	
 	26%{background-color:#f6f6ee }
 	32%{background-color:#eeeedd }
@@ -139,12 +139,12 @@ z-index:-1;
     70%{background-color: #b3ffd9}
 	
 		80%{background-color:#e6ffff }
-	86%{background-color:  #ccffff}
-	93%{background-color:#b3ffff }
-	100%{background-color: #99ffff }
+	89%{background-color:  #ccffff}
+	100%{background-color:#b3ffff }
+	
 
 }
-@media only screen and (max-width:1024px)
+@media only screen and (max-width:450px)
 {
 	#myVideo
 	{
