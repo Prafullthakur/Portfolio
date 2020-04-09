@@ -125,19 +125,15 @@ z-index:-1;
 }
 @keyframes change{
 	0%{background-color:#fff2e6 }
-	13%{background-color: #ffe6cc }
-	18%{background-color:#ffd9b3 }
+	17%{background-color: #ffe6cc }
+	22%{background-color:#ffd9b3 }
+	32%{background-color:#f6f6ee }
+	42%{background-color:#eeeedd }
+
 	
-	
-	26%{background-color:#f6f6ee }
-	32%{background-color:#eeeedd }
-	38%{background-color: #e5e5cc}
-	44%{background-color: #ddddbb }
-	50%{background-color:#d4d4aa }
-	59%{background-color:#e6ffff }
-	65%{background-color: #ccffe6}
-    70%{background-color: #b3ffd9}
-	
+	52%{background-color:#d4d4aa }
+	58%{background-color:#e6ffff }
+	70%{background-color: #ccffe6}
 		80%{background-color:#e6ffff }
 	92%{background-color:  #ccffff}
 	100%{background-color:#b3ffff }
