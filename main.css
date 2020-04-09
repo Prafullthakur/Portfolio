@@ -84,6 +84,7 @@ z-index:-1;
 {
 	height:100%;
 	width:400px;
+	background: black;
 	animation: change 30s infinite;
 }
 .second-vid{
