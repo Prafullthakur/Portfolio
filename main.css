@@ -152,7 +152,7 @@ z-index:-1;
 	}
 	#myVideo2
 	{
-		display: inline-block;
+		display: none;
 		width: 100%;
 	}
 	.second-vid{
