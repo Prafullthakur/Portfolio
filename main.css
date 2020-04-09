@@ -229,7 +229,7 @@ z-index:-1;
 	    left: 190px;
        }
 }
- @media only screen and (max-width:350px)
+ @media only screen and (max-width:300px)
  {
  	.container
  	{
