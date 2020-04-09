@@ -80,17 +80,16 @@ z-index:-1;
 .txt-menu5{
     margin-top:70px;
 }
-.image1
+.colour-changer
 {
-	height:100%;
-	width:400px;
-	background: black;
+	height: 650px;
+	width: 620px;
 	animation: change 30s infinite;
 }
 .second-vid{
 	position: absolute;
-	top: 450px;
-	left: 400px;
+	top: 420px;
+	left: 150px;
 
 }
 .txt1{
@@ -158,13 +157,13 @@ z-index:-1;
 	}
 	.second-vid{
 	position: absolute;
-	top: 300px;
+	top: 390px;
 	left: 0px;
 	text-align: center;
      }
-     .image1
-     {	height:100%;
-	    width:180px;
+     .colour-changer
+     {	height: 380px;
+     	width: 190px;
 	    
      }
      .circle
