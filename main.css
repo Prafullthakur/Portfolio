@@ -203,7 +203,7 @@ z-index:-1;
        }
   }
 
-  @media only screen and (max-width:730px)
+  @media only screen and (max-width:420px)
 {
 	.image2
        {
@@ -211,6 +211,17 @@ z-index:-1;
      	width: 225px;
 	    position: absolute;
 	    top: 355px;
+	    left: 190px;
+       }
+}
+ @media only screen and (max-width:380px)
+{
+	 .image2
+       {
+       	height: 375px;
+     	width: 170px;
+	    position: absolute;
+	    top: 260px;
 	    left: 190px;
        }
 }
