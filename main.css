@@ -33,7 +33,7 @@ z-index:-1;
 }
 .nav-loc1
 {
-	width:18px;
+	width:15px;
 	height: 3px;
 	background-color: black;
 	opacity: 0.8;
@@ -53,7 +53,7 @@ z-index:-1;
 }
 .nav-loc3
 {   
-	width:20px;
+	width:15px;
 	height: 3px;
 	background: black;
 	position: absolute;
