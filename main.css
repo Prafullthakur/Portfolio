@@ -180,7 +180,7 @@ z-index:-1;
      }
      .txt2
      {   padding-top: 20px;
-     	padding-left: 10px;
+     	padding-left: 25px;
      }
      /* .txt1
      {
@@ -193,5 +193,12 @@ z-index:-1;
          left: 90px;
       	font-family:Courier New;
       }*/
-  
-      }
+       .image2
+       {
+       	height: 400px;
+     	width: 170px;
+	    position: absolute;
+	    top: 287px;
+	    left: 170px;
+       }
+  }
