@@ -84,7 +84,7 @@ z-index:-1;
 {
 	height: 650px;
 	width: 620px;
-	animation: change 30s infinite;
+	animation: change 20s infinite;
 }
 .second-vid{
 	position: absolute;
@@ -125,18 +125,16 @@ z-index:-1;
 }
 @keyframes change{
 	0%{background-color:#fff2e6 }
-	17%{background-color: #ffe6cc }
-	22%{background-color:#ffd9b3 }
-	32%{background-color:#f6f6ee }
-	42%{background-color:#eeeedd }
-
+	10%{background-color: #ffe6cc }
+	20%{background-color:#ffd9b3 }
+	30%{background-color:#f5f5f0}
+	40%{background-color:#f6f6ee }
+	50%{background-color:#eeeedd }
+	60%{background-color:#deede9 }
+	70%{background-color:#ddeeea}
+		85%{background-color:#dbf0eb}
+	100%{background-color: #daf1eb}
 	
-	52%{background-color:#d4d4aa }
-	58%{background-color:#e6ffff }
-	70%{background-color: #ccffe6}
-		80%{background-color:#e6ffff }
-	88%{background-color:  #ccffff}
-	100%{background-color:#dfece9 }
 	
 
 }
