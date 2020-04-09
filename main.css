@@ -202,3 +202,15 @@ z-index:-1;
 	    left: 190px;
        }
   }
+
+  @media only screen and (max-width:730px)
+{
+	.image2
+       {
+       	height: 345px;
+     	width: 225px;
+	    position: absolute;
+	    top: 355px;
+	    left: 190px;
+       }
+}
