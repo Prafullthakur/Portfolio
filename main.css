@@ -257,9 +257,9 @@ z-index:-1;
   }
 
   @media only screen and (max-width:420px)
-{    .second-image
+{    .second-vid
 	{
-      top: 460px; 
+      top: 440px; 
     }
 	.image2
        {
@@ -283,7 +283,11 @@ z-index:-1;
        }
 }
  @media only screen and (max-width:360px)
- {
+ {   
+ 	.second-vid
+ 	{
+ 		top: 380px;
+ 	}
  	.image2
        {
        	height: 375px;
