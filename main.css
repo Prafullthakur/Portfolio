@@ -185,7 +185,7 @@ z-index:-1;
 		
 	}
 	.main-txt{
-		top: 100px;
+		top: 130px;
 		left: 10px;
 	}
 	.main-text1
@@ -210,10 +210,10 @@ z-index:-1;
      }
      .circle
      {
-     	margin-top: 0px;
-     	margin-left: 148px;
-     	width: 65px;
-     	height: 65px;
+     	
+     	margin-left: 149px;
+     	width: 75px;
+     	height: 75px;
      }
      .line
      {
@@ -221,8 +221,8 @@ z-index:-1;
      	margin-top: 0px;
      }
      .txt2
-     {   padding-top: 13px;
-     	padding-left: 9px;
+     {   padding-top: 17px;
+     	padding-left: 13px;
      	font-size: 12px;
      }
      /* .txt1
