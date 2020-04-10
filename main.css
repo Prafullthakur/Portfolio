@@ -110,7 +110,7 @@ z-index:-1;
     border-style: solid;
     border-color: rgb(0, 0, 0,0.9);
 	opacity: 0.2;
-	margin-left: 350px;
+	margin-left: 570px;
 	margin-bottom: 30px;
 }
 .txt2{
@@ -128,8 +128,31 @@ z-index:-1;
 	width:1.7px;
 	background: white;
 	margin-top: 0px;
-	margin-left: 398px;
+	margin-left: 619px;
 }
+.image2
+{
+	position: absolute;
+	top: 244px;
+	left: 620px;
+	height: 650px;
+	width: 620px;
+}
+.main-txt{
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+ .main-text1{
+ 	margin-left: 118px;
+ 	letter-spacing: 3px;
+ 	color: white;
+ }
+  .main-text2
+  {
+  	color: white;
+  	font-family: MajestiBanner-Medium,serif;
+  }
 @keyframes change{
 	0%{background-color:#fff2e6 }
 	10%{background-color: #ffe6cc }
