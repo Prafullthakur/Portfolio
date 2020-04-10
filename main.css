@@ -156,7 +156,7 @@ z-index:-1;
   .scroll-text
   {
   	color: white;
-  	letter-spacing: 3px;
+  	letter-spacing: 2.5px;
   }
 @keyframes change{
 	0%{background-color:#fff2e6 }
@@ -252,7 +252,7 @@ z-index:-1;
        .scroll-text
        {
        	margin-left: 160px;
-       	font-size: 11px;
+       	font-size: 9px;
        }
   }
 
