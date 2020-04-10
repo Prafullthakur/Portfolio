@@ -184,6 +184,19 @@ z-index:-1;
 	{
 		
 	}
+	.main-txt{
+		top: 100px;
+		left: 10px;
+	}
+	.main-text1
+	{
+		font-size: 11px;
+	}
+	.main-text2
+	{
+		font-size: 21px;
+	}
+
 	.second-vid{
 	position: absolute;
 	top: 380px;
@@ -198,7 +211,9 @@ z-index:-1;
      .circle
      {
      	margin-top: 0px;
-     	margin-left: 138px;
+     	margin-left: 148px;
+     	width: 65px;
+     	height: 65px;
      }
      .line
      {
@@ -206,8 +221,9 @@ z-index:-1;
      	margin-top: 0px;
      }
      .txt2
-     {   padding-top: 20px;
-     	padding-left: 15px;
+     {   padding-top: 13px;
+     	padding-left: 9px;
+     	font-size: 12px;
      }
      /* .txt1
      {
