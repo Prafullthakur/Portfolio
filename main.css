@@ -257,15 +257,19 @@ z-index:-1;
   }
 
   @media only screen and (max-width:420px)
-{
+{    .second-image
+	{
+      top: 460px; 
+    }
 	.image2
        {
        	height: 345px;
      	width: 225px;
 	    position: absolute;
-	    top: 355px;
+	    top: 345px;
 	    left: 190px;
        }
+	
 }
  @media only screen and (max-width:380px)
 {
