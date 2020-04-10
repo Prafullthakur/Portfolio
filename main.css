@@ -293,7 +293,7 @@ z-index:-1;
        	height: 375px;
      	width: 170px;
 	    position: absolute;
-	    top: 245px;
+	    top: 240px;
 	    left: 190px;
        }
      .main-txt{
@@ -301,7 +301,7 @@ z-index:-1;
 		left: 8px;
 	}
       
-      	.main-text1
+     .main-text1
 	{    margin-left: 110px;
 		font-size: 11px;
 	}
