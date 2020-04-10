@@ -279,8 +279,16 @@ z-index:-1;
 	    left: 190px;
        }
      .main-txt{
-		top: 130px;
+		top: 150px;
 		left: 8px;
 	}
-
+      
+      	.main-text1
+	{
+		font-size: 11px;
+	}
+	.main-text2
+	{   margin-left:50px;
+		font-size: 21px;
+	}
  }
