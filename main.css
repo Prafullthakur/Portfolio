@@ -270,8 +270,12 @@ z-index:-1;
 }
  @media only screen and (max-width:360px)
  {
- 	.container
- 	{
-      display: none;
- 	}
+ 	.image2
+       {
+       	height: 375px;
+     	width: 185px;
+	    position: absolute;
+	    top: 267px;
+	    left: 170px;
+       }
  }
