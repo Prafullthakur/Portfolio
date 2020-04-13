@@ -498,7 +498,7 @@ body
 	background-color: black;
 	width: 30px;
 	margin-top: 6px;
-	margin-left: 12px;
+	margin-left: 10px;
 }
 .nav-bar3
 {
@@ -506,7 +506,7 @@ body
 	background-color: black;
 	width: 15px;
 	margin-top: 6px;
-	margin-left: 12px;
+	margin-left: 10px;
 }
 }
 @media only screen and (max-width: 417px)
