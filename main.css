@@ -535,6 +535,10 @@ body
     margin-left: -0.86%;
     height: 450px;
 }
+.img-txt
+{    
+	margin-top: 17%;
+}
 }
 @media only screen and (max-width: 383px)
 {
@@ -582,9 +586,18 @@ body
 }
 @media only screen and (max-width: 286px)
 {    
+	.main-txt1
+	  {
+	  	font-size: 7px;
+	  }
+      .main-txt2
+      {
+          font-size: 15px; 	
+      }
+
      .image-txt
      {
-     	font-size: 17px;
+     	font-size: 15px;
      }
  .color-changer
 	{
@@ -595,7 +608,7 @@ body
 	}
 	.images-cont1
 {
-	margin-top: 7%;
+	margin-top: 5%;
 
 }
 }
