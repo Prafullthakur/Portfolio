@@ -429,7 +429,14 @@ body
 }
 }
 @media only screen and (max-width: 610px)
-{   
+{ .main-text
+{
+	margin-top: 19%;
+ }
+ .main-txt
+{
+    margin-top:19%; 
+}  
   .main-txt1
 {
 	font-size:13px;
