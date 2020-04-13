@@ -575,3 +575,30 @@ body
 
 }
 }
+@media only screen and (max-width: 286px)
+{    
+     .image-txt
+     {
+     	font-size: 17px;
+     }
+ .color-changer
+	{
+		height: 300px;
+	}
+	.image2{
+		height:300px;
+	}
+	.images-cont1
+{
+	margin-top: 7%;
+
+}
+}
+@media only screen and (max-width: 257px)
+{
+	 .image2
+{   
+    margin-left: -1.56%;
+
+}
+}
