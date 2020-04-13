@@ -216,7 +216,7 @@ body
 .socialize-content
 {
 	margin-top: -30%;
-	margin-left: 45%;
+	margin-left: 60%;
 }
 
 .Sc-txt1
@@ -228,7 +228,7 @@ body
 .Sc-txt2
 {   
 	margin-top: 3%;
-	margin-left: -1.6%;
+
     letter-spacing: 2px;
 	font-size: 12.5px;
 	font-weight: 800;
@@ -240,7 +240,7 @@ body
 {
     letter-spacing: 2px;
 	font-size: 12.5px;
-	margin-left: -0.5%;
+	
 	font-weight: 800;
 	display: block;	
 	margin-top: 1%;
@@ -251,8 +251,7 @@ body
 {
     letter-spacing: 2px;
 	font-size: 12.5px;
-	margin-left: -2.0%;
-	font-weight: 800;	
+		font-weight: 800;	
 	display:block;
 	margin-top: 1%;
 	text-decoration: none;
@@ -262,7 +261,7 @@ body
 {
     letter-spacing: 2px;
 	font-size: 12.5px;
-	margin-left: -2.7%;
+	
 			font-weight: 800;
 			display: block;
 			margin-top: 1%;
@@ -272,7 +271,7 @@ body
 .hello
 {
 	margin-top: 10%;
-	margin-left: 45%;
+	margin-left: 60%;
 }
 .say
 {
@@ -283,7 +282,6 @@ body
 .name
 {
 	margin-top: 3%;
-	margin-left: 5.05%;
     letter-spacing: 2px;
 	font-size: 12.5px;
 	font-weight: 800;
@@ -291,7 +289,7 @@ body
 }
 .mail
 {
-	margin-left: 19.05%;
+
     letter-spacing: 2px;
 	font-size: 12.5px;
 	font-weight: 800;
