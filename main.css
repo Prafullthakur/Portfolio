@@ -481,7 +481,7 @@ body
     width: 50%;
     margin-left: -0.76%;
     height: 500px;
-    margin-bottom: -15%;
+    margin-bottom: -9%;
 }
 .image-txt
 {
@@ -530,7 +530,7 @@ body
        height: 450px;
 	}
   .image2
-{  margin-bottom: -5%;
+{  
     width: 50%;
     margin-left: -0.86%;
     height: 450px;
@@ -564,5 +564,14 @@ body
     height: 400px;
 
 }
+
+}
+@media only screen and (max-width: 316px)
+{
+	 .image2
+{   
+    margin-left: -1.36%;
+    height: 400px;
+
 }
 }
