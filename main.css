@@ -485,7 +485,7 @@ body
 }
 .image-txt
 {
-	font-size: 22px;
+	font-size: 19px;
 }
 .nav-img
 {
@@ -567,11 +567,16 @@ body
 
 }
 @media only screen and (max-width: 316px)
-{
+{   
+	.color-changer
+	{
+		height: 350px;
+     }
 	 .image2
+	
 {   
     margin-left: -1.36%;
-    height: 400px;
+    height: 350px;
 
 }
 }
@@ -599,6 +604,20 @@ body
 	 .image2
 {   
     margin-left: -1.56%;
+
+}
+}
+@media only screen and (max-width: 227px)
+{     	.images-cont1
+{
+	
+
+}
+
+
+	 .image2
+{   
+    margin-left: -1.86%;
 
 }
 }
