@@ -98,7 +98,7 @@ body
 	border-radius: 50%;
 	backface-visibility: hidden;
     opacity: 0.3;
-    margin-left: 47%;
+   margin-left: 47%;
     margin-top: 8%; 
     position: relative;   
 }
@@ -416,14 +416,14 @@ body
 }
 .main-txt1
 {
-	font-size: 15px;
+S
 	font-size: 23px;
 	letter-spacing: 3px;
 }
 .main-txt2
 {
 	font-size: 55px;
-    font-size: 45px;
+   
 }
 .scroll
 {
@@ -459,7 +459,20 @@ body
 }
 }
 @media only screen and (max-width: 610px)
-{  
+{   
+  .main-txt1
+{
+	font-size:13px;
+	
+}
+.main-txt2
+{
+	font-size: 27px;	
+} 
+.circle
+{
+	margin-left: 38%;
+} 
 	.color-changer
 {    margin-top: 19%;
     width: 50%;
@@ -513,7 +526,9 @@ body
 }
 }
 @media only screen and (max-width: 417px)
-{   .color-changer
+{   
+
+	.color-changer
 	{
        height: 450px;
 	}
@@ -536,7 +551,12 @@ body
 }
 }
 @media only screen and (max-width: 343px)
+{    
+	.main-txt2
 {
+	font-size: 22px;
+	
+} 
 	.color-changer
 	{
 		height: 400px;
