@@ -608,16 +608,51 @@ body
 }
 }
 @media only screen and (max-width: 227px)
-{     	.images-cont1
-{
-	
+{    .main-txt1
+	  {
+	  	font-size: 7px;
+	  }
+      .main-txt2
+      {
+          font-size: 13px; 	
+      }
 
-}
+ .circle
+	{
+		height: 65px;
+		width: 65px;
+    
+    }
+    .circle-txt
+    {
+    	font-size: 10px;
+        top: 40%;
 
-
+      }
 	 .image2
 {   
     margin-left: -1.86%;
 
 }
+}
+@media only screen and (max-width: 193px)
+{
+		 .image2
+{   
+    display: none;
+
+}
+     .color-changer
+     {
+     	width: 100%;
+     }
+     .image-txt
+     {    width: 100%;
+     	top: 14%;
+     	left:0%;
+     }
+     .img-txt
+     {
+     	margin-top: 14%;
+     }
 }
