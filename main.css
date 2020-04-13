@@ -403,7 +403,6 @@ body
 .images-cont1
 {
 	margin-top: 19%;
-	text-align: center;
 	margin-left: 0%;
 	margin-right: 0%;
 }
@@ -464,8 +463,14 @@ body
 {
 	margin-top: 20%;
 }
+.images-cont1
+{
+	margin-top: 23%;
+	margin-left: 0%;
+	margin-right: 0%;
+}
 .color-changer
-{    margin-top: 19%;
+{    margin-top: 23%;
     width: 50%;
     margin-left: 0%;
     margin-left: -0.2%;
@@ -476,6 +481,7 @@ body
     width: 50%;
     margin-left: -0.76%;
     height: 500px;
+    margin-bottom: -9%;
 }
 .image-txt
 {
