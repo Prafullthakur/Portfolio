@@ -530,14 +530,14 @@ body
 	.Web-dev
 {   border-radius: 3%;
     display: block; 
-    padding:4%;
+    padding:4% 0% 2% 0%;
     margin-bottom: 8%; 
     background-color: #F4F4F5;
 }
 .web-apps
 {
      display: block; 
-    padding:4%; 
+       padding:4% 0% 2% 0%;
     background-color: #F4F4F5;
      margin-bottom: 8%; 
       border-radius: 3%;
@@ -545,7 +545,7 @@ body
 .project
 {
 	   display: block; 
-    padding:4%; 
+       padding:4% 0% 2% 0%;
     background-color: #F4F4F5;
      margin-bottom: 8%;
       border-radius: 3%; 
