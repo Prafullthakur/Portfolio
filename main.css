@@ -347,9 +347,8 @@ body
 }
 .Web-dev
 {
-	display: inline-block;
-	    padding-left: 5%;
-    padding-right: 5%; 
+	display: block;
+	padding-bottom: 8%;
 }
 .webimg
 {
@@ -361,9 +360,8 @@ body
 }
 .web-apps
 {
-    display: inline-block;
-    padding-left: 5%;
-    padding-right: 5%; 
+    display:block;
+    	padding-bottom: 8%; 
 }
 .webappimg
 {
@@ -375,10 +373,8 @@ body
 }
 .project
 {
-   display: inline-block;
-       padding-left: 5%;
-    padding-right: 5%; 
-  
+   display:block;
+   padding-bottom: 18%;
 }
 .projectimg
 {
