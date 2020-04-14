@@ -531,7 +531,7 @@ body
 {   border-radius: 3%;
     display: block; 
     padding:4%;
-    margin-bottom: 5%; 
+    margin-bottom: 8%; 
     background-color: #F4F4F5;
 }
 .web-apps
@@ -539,7 +539,7 @@ body
      display: block; 
     padding:4%; 
     background-color: #F4F4F5;
-     margin-bottom: 5%; 
+     margin-bottom: 8%; 
       border-radius: 3%;
 }
 .project
@@ -547,7 +547,7 @@ body
 	   display: block; 
     padding:4%; 
     background-color: #F4F4F5;
-     margin-bottom: 5%;
+     margin-bottom: 8%;
       border-radius: 3%; 
 
 }
