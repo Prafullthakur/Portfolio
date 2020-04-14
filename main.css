@@ -178,7 +178,7 @@ body
     display: none;
 	color: white;
 	background-color: black;
-	width: 100%;
+	width: 100vw;
 	height: 100vh;
 	text-align: center;
 	animation: menuchange .7s ;
@@ -309,23 +309,23 @@ body
 }
 @keyframes menuchange {
   from {
-  	height: 0vh;
+  	height: 0%;
   	width: 0%;
  
   }
   to {
-  	height: 100vh;
+  	height: 100%;
      width: 100%;
   }
 }
 @keyframes changemenu {
     from {
   	height: 100vh;
-     width: 100%;
+     width: 100vw;
   }
   to {
   	height: 0vh;
-  	width: 0%;
+  	width: 0vw;
  
   }
 }
@@ -338,6 +338,7 @@ body
      #myVideo2
      {
      	display: inline-block;
+     	width: 100%;
      }
      .nav-bar
      {
@@ -371,7 +372,10 @@ body
      {
      	display: none;
      }
-     
+     .Menu h3
+     {
+
+     }
  .part2{
        top: 17%;
    }
