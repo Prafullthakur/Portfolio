@@ -504,7 +504,47 @@ body
     margin-left: -0.52%;
 }
 }
-
+@media only screen and (max-width: 988px)
+{
+    .services-section
+{
+	padding: 80px 3% 100px 3%;
+    
+}
+.Web-dev
+{
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.web-apps
+{
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.project
+{
+	   padding-left: 2%;
+    padding-right: 2%; 
+}
+}
+@media only screen and (max-width: 672px)
+{
+	.Web-dev
+{
+    display: block; 
+    padding-bottom: 7%;
+}
+.web-apps
+{
+    display: block;
+    padding-bottom: 7%;
+}
+.project
+{
+	display: block;
+	padding-bottom: 7%;
+}
+}
 @media only screen and (max-width: 730px)
 {
     .image2
