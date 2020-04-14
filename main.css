@@ -1,7 +1,7 @@
 body
 {
 	margin: 0px;
-	background-color: #F4F4F5;
+
 }
 
 .part1{
@@ -350,6 +350,7 @@ body
 {
 	display: block;
 	padding-bottom: 8%;
+
 }
 .webimg
 {
@@ -527,24 +528,28 @@ body
 @media only screen and (max-width: 672px)
 {
 	.Web-dev
-{
+{   border-radius: 3%;
     display: block; 
-    padding-bottom: 19%;
-    padding-right: 0%;
-    padding-left: 0%;
+    padding:4%;
+    margin-bottom: 5%; 
+    background-color: #F4F4F5;
 }
 .web-apps
 {
-    display: block;
-    padding-bottom: 19%;
-        padding-right: 0%;
-    padding-left: 0%;
+     display: block; 
+    padding:4%; 
+    background-color: #F4F4F5;
+     margin-bottom: 5%; 
+      border-radius: 3%;
 }
 .project
 {
-	display: block;
-	    padding-right: 0%;
-    padding-left: 0%;
+	   display: block; 
+    padding:4%; 
+    background-color: #F4F4F5;
+     margin-bottom: 5%;
+      border-radius: 3%; 
+
 }
 .ser-p
 {
