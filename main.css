@@ -345,26 +345,16 @@ body
 }
 @keyframes menuchange {
   from {
-  	height: 0%;
-  	width: 0%;
- 
-  }
-  to {
-  	height: 100%;
-     width: 100%;
-  }
-}
-@keyframes changemenu {
-    from {
-  	height: 100vh;
-     width: 100%;
-  }
-  to {
   	height: 0vh;
   	width: 0%;
  
   }
+  to {
+  	height: 100vh;
+     width: 100%;
+  }
 }
+
 @media only screen and (max-width: 1100px)
 {
      #myVideo
