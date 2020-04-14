@@ -440,13 +440,12 @@ body
 .key
 {
 display: inline-block;
-padding-right:22%; 
+padding-right:22%;
 }
 .key-icon
 {
 	height: 40px;
 	width: 40px;
-
 }
 .key-icon1
 {
@@ -464,6 +463,7 @@ padding-right:22%;
 	color: black;
 	font-weight: bold;
 	display: inline-block;
+	margin-bottom: 5px;
 }
 .a-tag
 {
