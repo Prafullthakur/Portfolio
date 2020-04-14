@@ -385,6 +385,58 @@ body
 	border:7px solid rgb(0,0,0,0.15);
 	
 }
+.recent-work
+{
+	padding: 20px 10% 120px 10%;
+    
+}
+.work-heading
+{
+	 padding-bottom: 60px;
+	 color: #9f8f68;
+	 font-size: 20px;
+	 letter-spacing: 0.1rem;
+}
+.game
+{
+	display: block;
+	padding-bottom: 8%;
+
+}
+.gameimg
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:7px solid rgb(0,0,0,0.09);
+
+}
+.facebook
+{
+    display:block;
+    	padding-bottom: 8%; 
+}
+.fbimg
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:7px solid rgb(0,0,0,0.15);
+ 
+}
+.youtube
+{
+   display:block;
+
+}
+.ytimg
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:7px solid rgb(0,0,0,0.15);
+	
+}
 @keyframes change{
 	0%{background-color:#fff2e6 }
 	12%{background-color: #ffe6cc }
@@ -523,6 +575,26 @@ body
 	   padding-left: 2%;
     padding-right: 2%; 
 }
+    .recent-work
+{
+	padding: 80px 3% 100px 3%;
+    
+}
+.game
+{
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.facebook
+{
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.youtube
+{
+	   padding-left: 2%;
+    padding-right: 2%; 
+}
 }
 @media only screen and (max-width: 672px)
 {
@@ -553,6 +625,30 @@ body
 .ser-p
 {
 	font-size: 11px;
+}
+	.game
+{   border-radius: 3%;
+    display: block; 
+    padding:4% 0% 2% 0%;
+    margin-bottom: 8%; 
+    background-color: #F4F4F5;
+}
+.facebook
+{
+     display: block; 
+       padding:4% 0% 2% 0%;
+    background-color: #F4F4F5;
+     margin-bottom: 8%; 
+      border-radius: 3%;
+}
+.youtube
+{
+	   display: block; 
+       padding:4% 0% 2% 0%;
+    background-color: #F4F4F5;
+     margin-bottom: 8%;
+      border-radius: 3%; 
+
 }
 }
 @media only screen and (max-width: 730px)
