@@ -437,6 +437,38 @@ body
 	border:7px solid rgb(0,0,0,0.15);
 	
 }
+.key
+{
+display: inline-block;
+padding-right:22%; 
+}
+.key-icon
+{
+	height: 40px;
+	width: 40px;
+
+}
+.key-icon1
+{
+	height: 40px;
+	width: 30px;
+}
+.work-a
+{
+	padding-left:15px;
+	padding-right: 15px;
+		padding-top:7px;
+	padding-bottom: 7px; 
+	border:2px solid #d9d9d9;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	display: inline-block;
+}
+.a-tag
+{
+	margin-top: 0%;
+}
 @keyframes change{
 	0%{background-color:#fff2e6 }
 	12%{background-color: #ffe6cc }
@@ -621,6 +653,10 @@ body
      margin-bottom: 4%;
       border-radius: 3%; 
 
+}
+.ser-p1
+{
+	font-size: 12px;
 }
 .ser-p
 {
