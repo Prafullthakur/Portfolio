@@ -541,10 +541,29 @@ padding-right:22%;
    background-color: #9f8f68;
    margin-left: 40%;
 }
-.cont-img img
+.intlogo
 {
-    height: 50px;
-    width: 50px;
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+}
+.flogo
+{
+	height: 45px;
+	width: 45px;
+	display: inline-block;
+}
+.twlogo
+{
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+}
+.cllogo
+{
+	height: 45px;
+	width: 45px;
+	display: inline-block;
 }
 @keyframes change{
 	0%{background-color:#fff2e6 }
