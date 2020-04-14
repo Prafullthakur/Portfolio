@@ -131,8 +131,6 @@ body
 {   
    backface-visibility: hidden;
    width: 100%;
-
-   
 }
 .color-changer
 {
@@ -299,7 +297,6 @@ body
 .landing-txt
 {
 	padding: 220px 15% 120px 15%;
-
 }
 .heading
 {   
@@ -430,7 +427,7 @@ body
 }
 .images-cont1
 {
-	margin-top: 19%;
+    margin-top: 190px;
 	margin-left: 0%;
 	margin-right: 0%;
 }

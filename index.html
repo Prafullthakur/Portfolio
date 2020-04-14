@@ -6,6 +6,7 @@
      <meta charset="utf-8">
      <meta name="viewport" content="width=device-width,initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie-edge">
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <body>
 <div class="container">
@@ -64,7 +65,7 @@
 
     </div>
       
-      <div class="landing-txt">
+      <div class="landing-txt" data-aos="fade-left">
       <div class="heading">
         <h5>WHO IS THIS GUY</h5>
         <h3>Prafull Thakur</h3>
@@ -113,7 +114,13 @@
   </div>
 
 </div>
-    
+   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      offset: 500,
+      duration: 1000,
+    });
+  </script> 
 <script type="text/javascript" src="main.js"></script>
 </body>
 </html>
