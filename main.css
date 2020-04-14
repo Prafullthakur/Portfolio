@@ -387,8 +387,8 @@ body
 }
 @keyframes change{
 	0%{background-color:#fff2e6 }
-	15%{background-color: #ffe6cc }
-	30%{background-color:#ffd9b3 }
+	12%{background-color: #ffe6cc }
+	25%{background-color:#ffd9b3 }
     40%{background-color: #e6fff7}
 	50%{background-color:#b3ffe6 }
 
