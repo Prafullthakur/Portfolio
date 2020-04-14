@@ -521,7 +521,12 @@ body
 }
 }
 @media only screen and (max-width: 417px)
-{   
+{   .images-cont1
+{
+	margin-top: 32%;
+	margin-left: 0%;
+	margin-right: 0%;
+}
 
 	.color-changer
 	{
@@ -539,13 +544,22 @@ body
 }
 }
 @media only screen and (max-width: 383px)
+{  .images-cont1
 {
+	margin-top: 24%;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+.color-changer
+{
+	height: 380px;
+}
 
   .image2
 {   
     width: 50%;
     margin-left: -1.16%;
-
+    height: 380px;
 
 }
 }
@@ -558,27 +572,23 @@ body
 } 
 	.color-changer
 	{
-		height: 400px;
+		height: 350px;
 	}
   .image2
 {   
-    margin-left: -1.06%;
-    height: 400px;
+    margin-left: -1.26%;
+    height: 350px;
 
 }
 
 }
 @media only screen and (max-width: 316px)
 {   
-	.color-changer
-	{
-		height: 350px;
-     }
+	
 	 .image2
 	
 {   
     margin-left: -1.36%;
-    height: 350px;
 
 }
 }
