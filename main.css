@@ -545,6 +545,10 @@ body
 	    padding-right: 0%;
     padding-left: 0%;
 }
+.ser-p
+{
+	font-size: 13px;
+}
 }
 @media only screen and (max-width: 730px)
 {
