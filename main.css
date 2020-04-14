@@ -532,17 +532,22 @@ body
 	.Web-dev
 {
     display: block; 
-    padding-bottom: 7%;
+    padding-bottom: 12%;
+    padding-right: 0%;
+    padding-left: 0%;
 }
 .web-apps
 {
     display: block;
-    padding-bottom: 7%;
+    padding-bottom: 12%;
+        padding-right: 0%;
+    padding-left: 0%;
 }
 .project
 {
 	display: block;
-	padding-bottom: 7%;
+	    padding-right: 0%;
+    padding-left: 0%;
 }
 }
 @media only screen and (max-width: 730px)
