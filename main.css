@@ -146,7 +146,7 @@ body
 
 .image2
 {  display: inline-block;  
-	margin-left: -0.26%;
+	margin-left: -0.27%;
 	margin-bottom: -3%;
 	width: 40%;
 	height: 700px;
@@ -294,6 +294,40 @@ body
 	font-size: 12.5px;
 	font-weight: 800;
 	color:white;
+}
+
+.landing-txt
+{
+	padding: 220px 15% 120px 15%;
+
+}
+.heading
+{   
+	padding-top: 50px;
+
+}
+.heading h3
+{
+	font-size: 40px;
+	margin-top: 15px;
+	margin-bottom: 33px;
+	font-family: MajestiBanner-Medium,serif;
+}
+.heading h5
+{
+	color: #9f8f68;
+	font-size: 15px;
+}
+.brief-txt
+{   
+	text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
+    color:#898989;
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 100;
+
 }
 @keyframes change{
 	0%{background-color:#fff2e6 }
@@ -522,6 +556,20 @@ body
 	width: 15px;
 	margin-top: 6px;
 	margin-left: 10px;
+}
+.landing-txt
+{
+	padding-top: 180px;
+}
+.heading h3
+{
+	font-size:22px; 
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+.heading h5
+{
+	font-size: 11px;
 }
 }
 @media only screen and (max-width: 417px)
