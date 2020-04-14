@@ -1,6 +1,7 @@
 body
 {
 	margin: 0px;
+	background-color: #F4F4F5;
 }
 
 .part1{
@@ -388,9 +389,9 @@ body
 	0%{background-color:#fff2e6 }
 	10%{background-color: #ffe6cc }
 	20%{background-color:#ffd9b3 }
-	30%{background-color:#f5f5f0}
-	40%{background-color:#f6f6ee }
-	50%{background-color:#eeeedd }
+	30%{background-color:#ffffe6}
+	40%{background-color: #ffffcc }
+	50%{background-color:#ffffb3 }
 	60%{background-color:#deede9 }
 	70%{background-color:#ddeeea}
 	85%{background-color:#dbf0eb}
