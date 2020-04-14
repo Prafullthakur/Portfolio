@@ -156,8 +156,7 @@ body
     position: absolute;
    top: 14%;
    left: 7%;
-   backface-visibility: hidden; 
-   color:#ccc4d4;
+   color: white;
    	font-family: FreeMono, monospace;
    	font-weight: 100;
    	letter-spacing: 2px;
