@@ -355,7 +355,7 @@ body
 	width: 150px;
 	height: 150px;
 	border-radius: 50%;
-	border:7px solid rgb(0,0,0,0.15);
+	border:7px solid rgb(0,0,0,0.09);
 
 }
 .web-apps
@@ -528,14 +528,14 @@ body
 	.Web-dev
 {
     display: block; 
-    padding-bottom: 16%;
+    padding-bottom: 19%;
     padding-right: 0%;
     padding-left: 0%;
 }
 .web-apps
 {
     display: block;
-    padding-bottom: 16%;
+    padding-bottom: 19%;
         padding-right: 0%;
     padding-left: 0%;
 }
