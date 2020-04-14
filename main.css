@@ -452,6 +452,63 @@ padding-right:22%;
 	height: 40px;
 	width: 30px;
 }
+.a-tg
+{
+	display: inline-block;
+}
+.team
+{
+	padding: 80px 10% 120px 10%;
+    
+}
+
+.tm-heading
+{
+	 padding-bottom: 60px;
+	 color: #9f8f68;
+	 font-size: 20px;
+	 letter-spacing: 0.1rem;
+}
+.ayush
+{
+	display: block;
+	padding-bottom: 8%;
+
+}
+.ayushimg
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:7px solid rgb(0,0,0,0.09);
+
+}
+.priyansh
+{
+    display:block;
+    	padding-bottom: 8%; 
+}
+.priyanshimg
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:7px solid rgb(0,0,0,0.15);
+ 
+}
+.sarthak
+{
+   display:block;
+
+}
+.sarthakimg
+{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border:7px solid rgb(0,0,0,0.15);
+	
+}
 .work-a
 {
 	padding-left:15px;
@@ -465,10 +522,7 @@ padding-right:22%;
 	display: inline-block;
 	margin-bottom: 5px;
 }
-.a-tag
-{
-	margin-top: 0%;
-}
+
 @keyframes change{
 	0%{background-color:#fff2e6 }
 	12%{background-color: #ffe6cc }
@@ -627,6 +681,26 @@ padding-right:22%;
 	   padding-left: 2%;
     padding-right: 2%; 
 }
+.team
+{
+	padding: 80px 3% 100px 3%;
+    
+}
+.ayush
+{
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.priyansh
+{
+    padding-left: 2%;
+    padding-right: 2%; 
+}
+.sarthak
+{
+	   padding-left: 2%;
+    padding-right: 2%; 
+}
 }
 @media only screen and (max-width: 672px)
 {
@@ -662,6 +736,7 @@ padding-right:22%;
 {
 	font-size: 12px;
 }
+
 	.game
 {   border-radius: 3%;
     display: block; 
@@ -686,6 +761,31 @@ padding-right:22%;
       border-radius: 3%; 
 
 }
+	.ayush
+{   border-radius: 3%;
+    display: block; 
+    padding:4% 0% 2% 0%;
+    margin-bottom: 8%; 
+    background-color: #F4F4F5;
+}
+.priyansh
+{
+     display: block; 
+       padding:4% 0% 2% 0%;
+    background-color: #F4F4F5;
+     margin-bottom: 8%; 
+      border-radius: 3%;
+}
+.sarthak
+{
+	   display: block; 
+       padding:4% 0% 2% 0%;
+    background-color: #F4F4F5;
+     margin-bottom: 8%;
+      border-radius: 3%; 
+
+}
+
 }
 @media only screen and (max-width: 730px)
 {
