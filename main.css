@@ -750,7 +750,26 @@ padding-right:22%;
 }
 }
 @media only screen and (max-width: 672px)
-{
+{   .services-heading
+	{
+		font-size: 17px;
+		padding-bottom: 30px;
+     }
+      .cont-heading
+	{
+		font-size: 17px;
+			padding-bottom: 30px;
+     }
+      .work-heading
+	{
+		font-size: 17px;
+			padding-bottom: 30px;
+     }
+      .team-heading
+	{
+		font-size: 17px;
+			padding-bottom: 30px;
+     }
 	.Web-dev
 {   border-radius: 3%;
     display: block; 
