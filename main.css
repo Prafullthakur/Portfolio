@@ -519,7 +519,7 @@ padding-right:22%;
 	padding-right: 15px;
 		padding-top:7px;
 	padding-bottom: 7px; 
-	border:2px solid #d9d9d9;
+	border:2px solid #808080;
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
@@ -598,6 +598,20 @@ padding-right:22%;
 	70%{background-color:#ddeeea}
 	85%{background-color:#dbf0eb}
 	100%{background-color: #daf1eb}
+}
+@keyframes changeit{
+     0%{background-color:#f2f2f2 }
+	10%{background-color: #e6e6e6 }
+	20%{background-color: #e6e6e6 }
+	30%{background-color:#ffffcc }
+	40%{background-color:#fff2e6 }
+	50%{background-color:  #ffe6cc}
+	64%{background-color: #ffe6e6}
+
+	78%{background-color: #e6ffe6}
+	90%{background-color: #e6ffff}
+	100%{background-color: #ccffff}
+
 }
 @keyframes menuchange {
   from {
@@ -801,13 +815,13 @@ padding-right:22%;
     display: block; 
     padding:4% 0% 2% 0%;
     margin-bottom: 8%; 
-    background-color: #F4F4F5;
+      animation: changeit 30s infinite;
 }
 .web-apps
 {
      display: block; 
        padding:4% 0% 2% 0%;
-    background-color: #F4F4F5;
+     animation: changeit 30s infinite;
      margin-bottom: 8%; 
       border-radius: 3%;
 }
@@ -815,7 +829,7 @@ padding-right:22%;
 {
 	   display: block; 
        padding:4% 0% 2% 0%;
-    background-color: #F4F4F5;
+       animation: changeit 30s infinite;
      margin-bottom: 4%;
       border-radius: 3%; 
 
@@ -834,13 +848,13 @@ padding-right:22%;
     display: block; 
     padding:4% 0% 2% 0%;
     margin-bottom: 8%; 
-    background-color: #F4F4F5;
+    animation: changeit 30s infinite;
 }
 .facebook
 {
      display: block; 
        padding:4% 0% 2% 0%;
-    background-color: #F4F4F5;
+    animation: changeit 30s infinite;
      margin-bottom: 8%; 
       border-radius: 3%;
 }
@@ -848,7 +862,7 @@ padding-right:22%;
 {
 	   display: block; 
        padding:4% 0% 2% 0%;
-    background-color: #F4F4F5;
+     animation: changeit 30s infinite;
      margin-bottom: 8%;
       border-radius: 3%; 
 
@@ -858,13 +872,13 @@ padding-right:22%;
     display: block; 
     padding:4% 0% 2% 0%;
     margin-bottom: 8%; 
-    background-color: #F4F4F5;
+     animation: changeit 30s infinite;
 }
 .priyansh
 {
      display: block; 
        padding:4% 0% 2% 0%;
-    background-color: #F4F4F5;
+      animation: changeit 30s infinite;
      margin-bottom: 8%; 
       border-radius: 3%;
 }
@@ -872,7 +886,7 @@ padding-right:22%;
 {
 	   display: block; 
        padding:4% 0% 2% 0%;
-    background-color: #F4F4F5;
+    animation: changeit 30s infinite;
      margin-bottom: 8%;
       border-radius: 3%; 
 
