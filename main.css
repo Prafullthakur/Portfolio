@@ -30,6 +30,7 @@ body
     margin-left: 95px;
     width: 60px;
 	height:70px;
+	border: 1.5px solid skyblue;
 	background-color: white;
 }
 .nav-img
@@ -355,6 +356,7 @@ body
    padding: 50px 8% 50px 8%;
    animation: changeit 30s infinite;
    margin-bottom: 50px; 
+   border-radius: 10px;
 }
 .webimg
 {
@@ -368,8 +370,9 @@ body
 {
     display:block;
     padding: 50px 8% 50px 8%;
-       margin-bottom: 50px;
-          animation: changeit 30s infinite;
+    margin-bottom: 50px;
+    animation: changeit 30s infinite;
+    border-radius: 10px;
 }
 .webappimg
 {
@@ -382,9 +385,9 @@ body
 .project
 {
    display:block;
-     padding: 50px 8% 50px 8%;
-        animation: changeit 30s infinite;
-
+   padding: 50px 8% 50px 8%;
+   animation: changeit 30s infinite;
+   border-radius: 10px;
 }
 .projectimg
 {
@@ -413,9 +416,10 @@ body
 .game
 {
 	display: block;
-	  padding: 50px 8% 50px 8%;
-       margin-bottom: 50px;
-          animation: changeit 30s infinite;
+	padding: 50px 8% 50px 8%;
+    margin-bottom: 50px;
+    animation: changeit 30s infinite;
+    border-radius: 10px;
 
 }
 .gameimg
@@ -429,9 +433,10 @@ body
 .youtube
 {
     display:block;
-  padding: 50px 8% 50px 8%;
-       margin-bottom: 50px;
-          animation: changeit 30s infinite;
+    padding: 50px 8% 50px 8%;
+    margin-bottom: 50px;
+    animation: changeit 30s infinite;
+    border-radius: 10px;
 }
 .fbimg
 {
@@ -444,8 +449,9 @@ body
 .facebook
 {
    display:block;
- padding: 50px 8% 50px 8%;
-           animation: changeit 30s infinite;
+   padding: 50px 8% 50px 8%;
+   animation: changeit 30s infinite;
+   border-radius: 10px;
 }
 .ytimg
 {
@@ -491,9 +497,10 @@ padding-top: 2%;
 .ayush
 {
 	display: block;
-	  padding: 50px 8% 50px 8%;
-       margin-bottom: 50px;
-          animation: changeit 30s infinite;
+	padding: 50px 8% 50px 8%;
+    margin-bottom: 50px;
+    animation: changeit 30s infinite;
+    border-radius: 10px;
 
 }
 .ayushimg
@@ -507,9 +514,10 @@ padding-top: 2%;
 .priyansh
 {
     display:block;
-  padding: 50px 8% 50px 8%;
-       margin-bottom: 50px;
-          animation: changeit 30s infinite;
+    padding: 50px 8% 50px 8%;
+    margin-bottom: 50px;
+    animation: changeit 30s infinite;
+    border-radius: 10px;
 }
 .priyanshimg
 {
@@ -522,9 +530,9 @@ padding-top: 2%;
 .sarthak
 {
    display:block;
-     padding: 50px 8% 50px 8%;
-          animation: changeit 30s infinite;
-
+    padding: 50px 8% 50px 8%;
+    animation: changeit 30s infinite;
+   border-radius: 10px;
 }
 .sarthakimg
 {
