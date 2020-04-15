@@ -334,7 +334,7 @@ body
 }
 .services-section
 {
-	padding: 80px 10% 120px 10%;
+	padding: 80px 10% 0px 10%;
     
 }
 .services-section p 
@@ -393,6 +393,10 @@ body
 	border-radius: 50%;
 	border:7px solid rgb(0,0,0,0.15);
 	
+}
+.landing-txt2
+{
+	padding: 120px 15% 120px 15%;
 }
 .recent-work
 {
@@ -909,7 +913,10 @@ padding-top: 2%;
       border-radius: 3%; 
 
 }
-
+.landing-txt2
+{
+	padding: 60px 15% 60px 15%;
+}
 }
 @media only screen and (max-width: 730px)
 {
