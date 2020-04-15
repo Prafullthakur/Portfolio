@@ -590,7 +590,6 @@ padding-right:22%;
 	25%{background-color:#ffd9b3 }
     40%{background-color: #e6fff7}
 	50%{background-color:#b3ffe6 }
-
 	60%{background-color:#deede9 }
 	70%{background-color:#ddeeea}
 	85%{background-color:#dbf0eb}
@@ -1012,7 +1011,7 @@ padding-right:22%;
   .image2
 {  
     width: 50%;
-    margin-left: -0.86%;
+    margin-left: -0.97%;
     height: 450px;
 }
 .image-txt
