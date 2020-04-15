@@ -1146,7 +1146,9 @@ padding-right:8%;
       {
           font-size: 13px; 	
       }
-
+   .part1{
+   	display: none;
+   }
  .circle
 	{
 		height: 65px;
