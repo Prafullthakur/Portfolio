@@ -1057,6 +1057,7 @@ padding-top: 2%;
 .cont-heading
 {
 	margin-bottom:0px;
+	padding-bottom: 15px;
 }
 }
 @media only screen and (max-width: 393px)
