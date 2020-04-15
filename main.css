@@ -1100,7 +1100,9 @@ padding-right:8%;
 }
 }
 @media only screen and (max-width: 286px)
-{    
+{    .container{
+   	display: none;
+   } 
 	.main-txt1
 	  {
 	  	font-size: 7px;
@@ -1143,9 +1145,7 @@ padding-right:8%;
 }
 }
 @media only screen and (max-width: 257px)
-{    .container{
-   	display: none;
-   }
+{   
 	 .image2
 {   
     margin-left: -1.56%;
