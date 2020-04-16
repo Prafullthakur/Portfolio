@@ -1,9 +1,12 @@
 body
 {
 	margin: 0px;
-
+   
 }
-
+html
+{
+	   scroll-behavior: smooth;
+}
 .part1{
 	height: 100%;
 	width: 100%;
@@ -110,6 +113,8 @@ body
 	margin: 0%;
 	top:38px;
 	left: 17px; 
+	text-decoration: none;
+	color: black;
 }
 .scroll
 {   position: static;
