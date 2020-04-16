@@ -1153,7 +1153,22 @@ padding-right:8%;
 }
 }
 @media only screen and (max-width: 316px)
-{   
+{  	.images-cont1
+{
+	padding-top: 18%;
+
+}
+.circle
+{
+	height: 65px;
+     width: 65px;
+}
+.circle-txt
+{
+	font-size:  12px;
+	top: 40%;
+	left: 16%;
+} 
 	
 	 .image2
 	
