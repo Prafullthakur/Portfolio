@@ -1158,9 +1158,7 @@ padding-right:8%;
 }
 }
 @media only screen and (max-width: 286px)
-{    .container{
-   	display: none;
-   } 
+{  
 	.main-txt1
 	  {
 	  	font-size: 7px;
@@ -1183,8 +1181,19 @@ padding-right:8%;
 	}
 	.images-cont1
 {
-	margin-top: 5%;
+	padding-top: 3%;
 
+}
+.circle
+{
+	height: 65px;
+     width: 65px;
+}
+.circle-txt
+{
+	font-size:  12px;
+	top: 40%;
+	left: 16%;
 }
 .key-icon
 {
