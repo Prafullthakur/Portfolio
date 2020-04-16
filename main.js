@@ -5,6 +5,7 @@ var videoSection = document.querySelector(".video-section");
 var menu = document.querySelector(".Menu");
 var Part = document.querySelector(".part1");
 navbar.addEventListener('click',showMenu);
+
 var clickcount=0;
 function showMenu(e)
 {   console.log(e);
@@ -21,3 +22,7 @@ function showMenu(e)
     
    }
 }
+    AOS.init({
+      offset: 400,
+      duration: 600,
+    });
