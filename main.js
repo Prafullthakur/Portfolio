@@ -12,13 +12,11 @@ function showMenu(e)
     clickcount++;
 	if(clickcount%2==0)
    { 
-     videoSection.style.display='inline-block';
      menu.style.display='none';
     }
    else
    {
    	menu.style.display='inline-block';
-    videoSection.style.display='none';
     
    }
 }
