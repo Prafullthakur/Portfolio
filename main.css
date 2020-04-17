@@ -653,6 +653,11 @@ padding-top: 2%;
 	font-weight: 200;
  
 }
+.lastimg
+{
+	height: 100px;
+	width: 200px;
+}
 @keyframes change{
 	0%{background-color:#fff2e6 }
 	12%{background-color: #ffe6cc }
@@ -979,6 +984,10 @@ padding-top: 2%;
 .landing-txt2
 {
 	padding: 60px 15% 60px 15%;
+}
+.landing-txt3
+{
+	padding: 40px 15% 150px 15%;
 }
 }
 @media only screen and (max-width: 730px)
