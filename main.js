@@ -1,5 +1,7 @@
 var vid = document.getElementById("myVideo");
+var video = document.getElementById("myVideo2");
 vid.playbackRate = 0.6;
+video.playbackRate = 0.6;
 var navbar = document.querySelector(".nav-bar");
 var navline1 = document.querySelector(".nav-bar1");
 var navline2 = document.querySelector(".nav-bar2");
@@ -31,7 +33,6 @@ AOS.init({
 });
 console.log(a1);
 a1.forEach((items)=>{
-    menu.style.position='static';
   items.addEventListener('click',(e)=>{
 
  menu.style.display='none';
