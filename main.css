@@ -50,7 +50,8 @@ html
 	width: 15px;
 	margin-top: 22px;
 	margin-left: 15px;
-	  transition: 0.4s;
+	    transition: .5s;  
+
 }
 .nav-bar2
 {
@@ -59,7 +60,8 @@ html
 	width: 30px;
 	margin-top: 6px;
 	margin-left: 15px;
-	  transition: 0.4s;
+    transition: .5s;
+
 }
 .nav-bar3
 {
@@ -68,7 +70,20 @@ html
 	width: 15px;
 	margin-top: 6px;
 	margin-left: 15px;
-	  transition: 0.4s;
+    transition: .5s;
+
+}
+.animateitonce
+{
+        transform: rotate(45deg)  translate(4px, 2px);
+}
+.animateittwice
+{
+        transform: rotate(-45deg);
+}
+.animateitthrice
+{
+        transform: rotate(45deg) translate(6px, -11px);
 }
 .part2{
        position: absolute;
