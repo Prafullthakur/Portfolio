@@ -1,7 +1,7 @@
 var vid = document.getElementById("myVideo");
 var video = document.getElementById("myVideo2");
 vid.playbackRate = 0.6;
-video.playbackRate = 0.6;
+video.playbackRate = 0.8;
 var navbar = document.querySelector(".nav-bar");
 var navline1 = document.querySelector(".nav-bar1");
 var navline2 = document.querySelector(".nav-bar2");
