@@ -34,7 +34,9 @@ AOS.init({
 console.log(a1);
 a1.forEach((items)=>{
   items.addEventListener('click',(e)=>{
-
+               navline1.className="nav-bar1";
+    navline2.className="nav-bar2";
+    navline3.className="nav-bar3"; 
  menu.style.display='none';
 
 });
