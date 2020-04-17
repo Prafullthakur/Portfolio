@@ -658,6 +658,10 @@ padding-top: 2%;
 	height: 100px;
 	width: 200px;
 }
+.landing-txt3
+{
+	padding: 40px 15% 150px 15%;
+}
 @keyframes change{
 	0%{background-color:#fff2e6 }
 	12%{background-color: #ffe6cc }
