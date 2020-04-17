@@ -195,7 +195,17 @@ html
 	text-align: center;
 	animation: menuchange .7s ;
 }
-
+.Menu-reverse
+{      backface-visibility: hidden;
+    display: none;
+	color: white;
+	background-color: black;
+	width: 100%;
+	height: 100vh;
+	text-align: center;
+	animation: menuchange .7s ;
+	animation-direction: reverse;
+}
 .Menu h3 {
      margin:0%; 
 	font-size: 55px;
@@ -664,6 +674,7 @@ padding-top: 2%;
      width: 100%;
   }
 }
+
 .change .nav-bar1{
 	transform: rotate(-45deg);
 }
