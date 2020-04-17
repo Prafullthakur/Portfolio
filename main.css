@@ -201,8 +201,9 @@ html
 
 }
 .Menu
-{      backface-visibility: hidden;
+{   
     display: none;
+    position: fixed;
 	color: white;
 	background-color: black;
 	width: 100%;

@@ -12,17 +12,19 @@ var Part = document.querySelector(".part1");
 navbar.addEventListener('click',showMenu);
 var clickcount=0;
 function showMenu(e)
-{ 
+{    console.log(e);
     clickcount++;
   if(clickcount%2==0)
    { 
      menu.style.display='none';
        menu.className="Menu-reverse";
+       Part.style.display="inline-block";
     }
    else
    {
     menu.style.display='inline-block';
     menu.className="Menu";
+    Part.style.display="none";
    }
 }
 
@@ -31,13 +33,13 @@ AOS.init({
   offset: 400,
   duration: 600,
 });
-console.log(a1);
 a1.forEach((items)=>{
   items.addEventListener('click',(e)=>{
                navline1.className="nav-bar1";
     navline2.className="nav-bar2";
     navline3.className="nav-bar3"; 
  menu.style.display='none';
+   Part.style.display="inline-block";
 
 });
 });
