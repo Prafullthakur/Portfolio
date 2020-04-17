@@ -75,7 +75,7 @@ html
 }
 .animateitonce
 {
-        transform: rotate(45deg)  translate(4px, 2px);
+        transform: rotate(45deg)  translate(4px, 1px);
 }
 .animateittwice
 {
@@ -83,7 +83,7 @@ html
 }
 .animateitthrice
 {
-        transform: rotate(45deg) translate(6px, -11px);
+        transform: rotate(45deg) translate(6px, -12px);
 }
 .part2{
        position: absolute;
