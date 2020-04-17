@@ -773,6 +773,21 @@ padding-top: 2%;
     width: 50%;
     margin-left: -0.52%;
 }
+.Menu h3 { 
+	font-size: 53px;
+   width: 100%;
+  padding-bottom: 5%;
+   text-align: center;
+   line-height: 70px;
+} 
+.Menu-cont
+{
+	margin-top: 23%;
+}
+.Menu-container
+{
+	margin-top: 20%;
+}
 }
 @media only screen and (max-width: 988px)
 {

@@ -28,7 +28,7 @@ AOS.init({
 });
 console.log(a1);
 a1.forEach((items)=>{
-
+    menu.style.position='static';
   items.addEventListener('click',(e)=>{
 
  menu.style.display='none';
